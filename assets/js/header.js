@@ -53,3 +53,8 @@ function scrollFunction() {
 $('#show-dropdown-icon').on('click' , ()=>{
     $('.gmenu').slideToggle('1500')
 });
+
+// Show icon 
+$('.navbar-toggler').on('click' , ()=>{
+  
+})
